@@ -1,0 +1,13 @@
+disclaimer: some of these resources are old and may be outdated:
+
+
+
+https://scotch.io/tutorials/scraping-the-web-with-node-js (old?)
+https://scotch.io/tutorials/web-scraping-scotch-the-node-way (newer)
+https://levelup.gitconnected.com/web-scraping-with-node-js-c93dcf76fe2b  (2019)
+https://pusher.com/tutorials/web-scraper-node   (a skim of this looks promising. 2019)
+https://stackabuse.com/web-scraping-with-node-js/ (2018)
+https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/ (2018)
+
+an article on the libraries/modules/tools (i think those are all dif words for basically the same thing):
+https://www.codementor.io/@hirenpatel545/5-best-javascript-web-scraping-libraries-and-tools-sicow2rx9  (2019)
