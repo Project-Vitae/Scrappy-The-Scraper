@@ -1,9 +1,15 @@
 disclaimer: some of these resources are old and may be outdated:
 
+install node:
+https://nodejs.org/en/download/
+
+most installs after node:
+npm i (name of thing here)  {run it in the command line. when in doubt google "npm install (name of thing here)";
 
 
-https://scotch.io/tutorials/scraping-the-web-with-node-js (old?)
-https://scotch.io/tutorials/web-scraping-scotch-the-node-way (newer)
+
+https://scotch.io/tutorials/scraping-the-web-with-node-js (old?);
+https://scotch.io/tutorials/web-scraping-scotch-the-node-way (newer);
 https://levelup.gitconnected.com/web-scraping-with-node-js-c93dcf76fe2b  (2019)
 https://pusher.com/tutorials/web-scraper-node   (a skim of this looks promising. 2019)
 https://stackabuse.com/web-scraping-with-node-js/ (2018)
