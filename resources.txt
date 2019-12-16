@@ -11,3 +11,6 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-j
 
 an article on the libraries/modules/tools (i think those are all dif words for basically the same thing):
 https://www.codementor.io/@hirenpatel545/5-best-javascript-web-scraping-libraries-and-tools-sicow2rx9  (2019)
+
+videos:
+https://www.youtube.com/watch?v=00Z8i88iFsc (2018)
