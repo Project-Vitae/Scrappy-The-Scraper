@@ -3,6 +3,9 @@ disclaimer: some of these resources are old and may be outdated:
 install node:
 https://nodejs.org/en/download/
 
+express:
+https://expressjs.com/en/4x/api.html
+
 most installs after node:
 npm i (name of thing here)  {run it in the command line. when in doubt google "npm install (name of thing here)";
 
@@ -20,3 +23,7 @@ https://www.codementor.io/@hirenpatel545/5-best-javascript-web-scraping-librarie
 
 videos:
 https://www.youtube.com/watch?v=00Z8i88iFsc (2018)
+
+SAFE SCRAPING TARGETS
+http://toscrape.com/
+http://books.toscrape.com/
